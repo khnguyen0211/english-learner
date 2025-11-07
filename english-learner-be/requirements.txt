@@ -1,0 +1,12 @@
+# FastAPI Framework
+fastapi==0.121.0
+uvicorn[standard]==0.38.0
+pydantic==2.12.4
+pydantic-settings==2.11.0
+python-dotenv==1.0.0
+
+# Google Gemini SDK
+google-generativeai==0.8.5
+
+# HTTP Client
+requests==2.32.5
